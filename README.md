@@ -4,7 +4,7 @@
 
 [![Trendshift](https://trendshift.io/api/badge/repositories/13856)](https://github.com/golang-devkit/lab-queue-pattern)
 
-[![Go Version](https://img.shields.io/badge/go-v1.26.4-blue)](https://img.shields.io/github/go-mod/go-version/golang-devkit/lab-queue-pattern)
+[![Go Version](https://img.shields.io/badge/go-v1.26.5-blue)](https://img.shields.io/github/go-mod/go-version/golang-devkit/lab-queue-pattern)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/license/MIT)
 
 </div>
